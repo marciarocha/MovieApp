@@ -1,8 +1,6 @@
 package com.marciarocha.movieapp.base
 
 import android.os.Bundle
-import android.os.PersistableBundle
-import android.support.v4.app.LoaderManager
 import dagger.android.support.DaggerAppCompatActivity
 import io.reactivex.disposables.CompositeDisposable
 import javax.inject.Inject

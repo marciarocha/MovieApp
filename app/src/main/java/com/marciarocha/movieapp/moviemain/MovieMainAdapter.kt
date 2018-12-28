@@ -11,7 +11,6 @@ import com.marciarocha.movieapp.R
 import com.marciarocha.movieapp.data.model.Movie
 import com.marciarocha.movieapp.data.remote.POSTER_PATH
 import kotlinx.android.synthetic.main.item_movie.view.*
-import javax.inject.Inject
 
 class MovieMainAdapter constructor(val activityContext: Context) : RecyclerView.Adapter<MovieMainAdapter.MovieViewHolder>() {
 

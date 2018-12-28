@@ -12,7 +12,6 @@ import com.marciarocha.movieapp.moviemain.MovieMainAdapter
 import com.marciarocha.movieapp.moviemain.MovieMainContract
 import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.movie_list.*
-import javax.inject.Inject
 
 class MovieMainActivity : BaseActivity<MovieMainContract.MovieMainView, MovieMainContract.MovieMainPresenter>(), MovieMainContract.MovieMainView, MovieMainAdapter.OnMovieItemClickListener, SearchView.OnQueryTextListener{
 

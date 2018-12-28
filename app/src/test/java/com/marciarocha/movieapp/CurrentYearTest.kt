@@ -4,7 +4,6 @@ import com.marciarocha.movieapp.data.model.Movie
 import org.junit.Test
 
 import org.junit.Assert.*
-import org.junit.Before
 import java.util.*
 
 
