@@ -2,9 +2,7 @@ package com.marciarocha.movieapp.base
 
 interface BaseContract {
 
-    interface IBaseView{
-
-    }
+    interface IBaseView
 
     interface IBasePresenter<T> {
         var view: T?
