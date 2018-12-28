@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="search_title">Search</string>
+    <string name="duration">Duration:</string>
+    <string name="revenue">Revenue:</string>
+</resources>
